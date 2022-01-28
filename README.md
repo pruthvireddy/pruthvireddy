@@ -16,9 +16,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachespark.svg"></code>
 <code><img height="20" src="https://github.com/pruthvireddy/pruthvireddy/blob/main/icons/bigquery-icon.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/pruthvireddy/pruthvireddy/blob/main/icons/tensorflow-icon.png"></code>
+<code><img height="20" src="https://github.com/pruthvireddy/pruthvireddy/blob/main/icons/amazon-redshift.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
 
 ## 📈 My Github Stats
 
