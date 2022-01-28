@@ -19,9 +19,8 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pruthvireddy&show_icons=true&theme=gotham" alt="pruthvireddy" />
-
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvireddy&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=pruthvireddy&show_icons=true&theme=gotham" alt="pruthvireddy" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvireddy&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pruthvireddy/pruthvireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
